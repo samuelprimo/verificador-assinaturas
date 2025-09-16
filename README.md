@@ -64,7 +64,7 @@ O modelo foi treinado com 8.000 pares de imagens e alcançou uma acurácia de va
 
 * **Samuel Primo**
     * GitHub: [@samuelprimo](https://github.com/samuelprimo)
-    * LinkedIn: ([se você tiver, coloque o link aqui](https://www.linkedin.com/in/samuel-arcoverde))
+    * LinkedIn: ([samuel arcoverde](https://www.linkedin.com/in/samuel-arcoverde))
 
 ---
 
