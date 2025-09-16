@@ -43,9 +43,9 @@ Diferente de um classificador tradicional, a Rede Siamesa não aprende a identif
 
 ## - Resultados
 
-O modelo foi treinado com 8.000 pares de imagens e alcançou uma acurácia de validação satisfatória, demonstrando sua capacidade de generalizar e diferenciar assinaturas que nunca viu antes.
+O modelo foi treinado com 8.000 pares de imagens e alcançou uma acurácia de validação satisfatória, demonstrando sua capacidade de generalizar e diferenciar assinaturas que nunca viu antes. Dentro do arquibo .ipynb é possível visualizar perfeitamente os resultados.
 
-dentro do arquibo .ipynb é possível visualizar perfeitamente os resultados.
+
 ---
 
 ## - Como Executar
