@@ -45,14 +45,7 @@ Diferente de um classificador tradicional, a Rede Siamesa não aprende a identif
 
 O modelo foi treinado com 8.000 pares de imagens e alcançou uma acurácia de validação satisfatória, demonstrando sua capacidade de generalizar e diferenciar assinaturas que nunca viu antes.
 
-Abaixo, exemplos de previsões feitas pelo modelo no conjunto de validação:
-
-**Exemplo de Acerto (Falsificação):**
-![Exemplo de Acerto](https://i.imgur.com/G4VzF4M.png)
-
-**Exemplo de Erro (Genuína classificada como Falsificação):**
-![Exemplo de Erro](https://i.imgur.com/8Qe7b2H.png)
-
+dentro do arquibo .ipynb é possível visualizar perfeitamente os resultados.
 ---
 
 ## - Como Executar
