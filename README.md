@@ -5,7 +5,7 @@
 ![Framework](https://img.shields.io/badge/Framework-TensorFlow%2FKeras-orange)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samuelprimo/verificador-assinaturas/blob/main/verificador-assinaturas.ipynb)
 
-## 📖 Sobre o Projeto
+## - Sobre o Projeto
 
 Este é um mini-projeto de Visão Computacional desenvolvido como estudo prático para o Mestrado em Informática. O objetivo é construir e treinar um modelo de Deep Learning capaz de verificar a autenticidade de assinaturas manuscritas, determinando se duas imagens de assinatura pertencem à mesma pessoa.
 
@@ -13,7 +13,7 @@ A abordagem utilizada é o **Deep Metric Learning** através de uma arquitetura 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## - Tecnologias Utilizadas
 
 O projeto foi inteiramente desenvolvido em um ambiente Google Colab, utilizando as seguintes tecnologias:
 
@@ -27,7 +27,7 @@ O projeto foi inteiramente desenvolvido em um ambiente Google Colab, utilizando 
 
 ---
 
-## ⚙️ Como Funciona? A Arquitetura Siamesa
+## - Como Funciona? A Arquitetura Siamesa
 
 Diferente de um classificador tradicional, a Rede Siamesa não aprende a identificar *de quem* é uma assinatura. Em vez disso, ela aprende a **medir a similaridade** entre duas imagens.
 
@@ -41,7 +41,7 @@ Diferente de um classificador tradicional, a Rede Siamesa não aprende a identif
 
 ---
 
-## 📊 Resultados
+## - Resultados
 
 O modelo foi treinado com 8.000 pares de imagens e alcançou uma acurácia de validação satisfatória, demonstrando sua capacidade de generalizar e diferenciar assinaturas que nunca viu antes.
 
@@ -55,7 +55,7 @@ Abaixo, exemplos de previsões feitas pelo modelo no conjunto de validação:
 
 ---
 
-## 🚀 Como Executar
+## - Como Executar
 
 É possível executar este projeto diretamente no Google Colab.
 
@@ -67,7 +67,7 @@ Abaixo, exemplos de previsões feitas pelo modelo no conjunto de validação:
 
 ---
 
-## 👤 Autor
+## - Autor
 
 * **Samuel Primo**
     * GitHub: [@samuelprimo](https://github.com/samuelprimo)
@@ -75,6 +75,6 @@ Abaixo, exemplos de previsões feitas pelo modelo no conjunto de validação:
 
 ---
 
-## 📜 Licença
+## - Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
